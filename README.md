@@ -4,8 +4,8 @@
 <h3 align="center">Technical Writer and some software engineering </h3>
 
 ### About
-**`Softare Engineer fueled by cold brew coffee`**
-- Experience: In Front-end/Back-end Software Engineering.
+**`Fueled by cold brew coffee`**
+- Past Dev Experience: In Front-end/Back-end Software Engineering.
 
 
 <!-- Trophies and Contributions Cards in a Table Layout -->
