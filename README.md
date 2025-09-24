@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Olivia</h1>
-<h3 align="center">Software Engineer </h3>
+<h3 align="center">Technical Writer and some software engineering </h3>
 
 ### About
 **`Softare Engineer fueled by cold brew coffee`**
