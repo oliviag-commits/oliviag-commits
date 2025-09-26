@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Olivia</h1>
-<h3 align="center">Technical Writing, software engineering, IT </h3>
+<h3 align="center">Technical writing, software engineering, IT </h3>
 
 ### About
 **`Fueled by cold brew coffee`**
