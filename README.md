@@ -34,7 +34,7 @@
     <img src="https://www.vectorlogo.zone/logos/mailchimp/mailchimp-ar21~bgwhite.svg" alt="Mailchimp"/>  
   </a>
       <a href="https://developers.google.com/analytics" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/google_analytics/google_analytics-ar21~bgwhite.svg" alt="Google Analytics"/>  
+    <img src="https://www.vectorlogo.zone/logos/google_analytics/google_analytics-ar21.svg" alt="Google Analytics"/>  
   </a>
   <a href="https://ads.google.com" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/google_ads/google_ads-ar21~bgwhite.svg" alt="Google Ads"/>  
