@@ -13,13 +13,14 @@
   <tr>
     <td>
       <!-- Trophies -->
-      <a href="https://github.com/ryo-ma/github-profile-trophy">
+      <!-- <a href="https://github.com/ryo-ma/github-profile-trophy">
         <img src="https://github-profile-trophy.vercel.app/?username=oliviag-commits&theme=dracula&no-frame=true&row=1&column=5&Title=Commits,PullRequest,Experience,Repositories" alt="oliviag-commits" />
-      </a>
+      </a> -->
+      [![GitHub Streak](https://streak-stats.demolab.com/?user=oliviag-commits)](https://git.io/streak-stats)
     </td>
     <td>
       <!-- Contributions Card -->
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=oliviag-commits&theme=dracula" alt="oliviag-commits" />
+      <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=oliviag-commits&theme=dracula" alt="oliviag-commits" /> -->
     </td>
   </tr>
 </table>
