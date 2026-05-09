@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Olivia</h1>
-<h3 align="center">Coding & Marketing </h3>
+<h3 align="center">Coding, Product & Marketing </h3>
 
 ### About
 **`Fueled by cold brew coffee`**
